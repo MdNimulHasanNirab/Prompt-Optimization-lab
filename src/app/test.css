@@ -1,0 +1,12 @@
+body {
+  background: lime !important;
+}
+
+.project-page {
+  padding: 100px !important;
+}
+
+.project-hero {
+  background: blue !important;
+  border: 20px solid red !important;
+}
